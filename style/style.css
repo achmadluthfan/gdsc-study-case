@@ -223,7 +223,10 @@ main div:nth-child(3) a {
     .hero-section-one div:nth-child(2) p {
         margin-bottom: 3px;
     }
-    
+
+                .container {
+                    height: 1700px;
+                }
 }
 @media only screen and (min-width: 768px) {
     .hero-section-one {
@@ -303,4 +306,7 @@ main div:nth-child(3) a {
         max-width: 556px;
     }
 
+        .container {
+            height: 1400px;
+        }
 }
